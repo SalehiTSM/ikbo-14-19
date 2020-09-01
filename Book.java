@@ -24,7 +24,7 @@ public class Book {
     public static void main(String[]args)
     {
         book book;
-        book = new book(318,"Steven King","Roman", "Cujo");
+        book = new book(318,"Stephen King","Roman", "Cujo");
         book.ToString();
     }
 }
